@@ -74,10 +74,4 @@ Tchemo Israel
 
 Bachelor of Technology (B.Tech)
 
-Research Interests:
 
-Industrial Robotics
-Digital Twins
-Industry 4.0
-Artificial Intelligence for Industrial Systems
-Mechanical Design and Automation
